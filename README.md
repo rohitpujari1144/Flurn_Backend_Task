@@ -1,4 +1,7 @@
 # Booking Service Backend
+
+- Backend deployed URL: https://creasophere-tech-private-limited.onrender.com
+
 - Endpoints:
   - Get all seats information: /seats
   - Add seat: /add-seats
